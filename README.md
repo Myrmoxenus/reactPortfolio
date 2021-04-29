@@ -25,5 +25,5 @@ MIT
 [Myrmoxenus](https://github.com/Myrmoxenus)
 
 ## Screenshot: 
-![Screenshot of React Portfolio](Images/screenshot.png)
+![Screenshot of React Portfolio](public/images/screenshot.png)
 
