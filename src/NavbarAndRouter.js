@@ -3,7 +3,7 @@ import About from "./About"
 import ContactMe from "./ContactMe"
 import Portfolio from "./Portfolio";
 
-const Navbar = () => {
+const NavbarAndRouter = () => {
     return ( 
         <Router>
             
@@ -26,4 +26,4 @@ const Navbar = () => {
      );
 }
   
-export default Navbar;
+export default NavbarAndRouter;
