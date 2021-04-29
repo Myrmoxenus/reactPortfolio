@@ -5,7 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #8FACA2;
+  background-color: #FFFBE4;
 }
 
 code {
@@ -15,14 +15,6 @@ code {
 
 p{
   color: black
-}
-
-table{
-  background-color: #aab1c1;
-  margin: auto;
-  width: 50%;
-  border: 3px solid black;
-  padding: 10px;
 }
 
 button{
@@ -46,7 +38,7 @@ h2{
 nav{
 
   text-align: center;
-  background-color: antiquewhite;
+  background-color: #8FACA2;
   
 }
 
@@ -55,11 +47,10 @@ nav{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  background-color: antiquewhite;
 }
 
 .footer{
-  background-color: antiquewhite;
+  background-color: #FFFBE4;
   position: fixed;
   left: 0;
   bottom: 0;
@@ -77,11 +68,11 @@ nav{
 }
 .navLink a {
   color: #894F19;
-  text-decoration: none;
+
 }
 .Container{
 
-background-color: antiquewhite;
+background-color: #8FACA2;
 padding: 10px;
 padding-bottom: 50px;
 border-radius: 5px;
@@ -94,8 +85,8 @@ text-align: center;
 .contactButton{
   text-decoration:none;
   font-weight: bold;
-  color: black;
-  background-color: #8FACA2;
+  color: #894F19;
+  background-color: #FFFBE4;
   border-radius: 5px;
   text-align: center;
   padding: 2% 0;
@@ -108,11 +99,12 @@ text-align: center;
 }
 
 .contactButton:hover{
-  background-color: #894F19
+  background-color: #8FACA2;
+  color: #FFFBE4;
 }
 
 .projectCard{
-  background-color: antiquewhite;
+  background-color: #FFFBE4;
   border-radius: 5px;
   
   margin: auto;
