@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import Navbar from './NavbarAndRouter';
+import NavbarAndRouter from './NavbarAndRouter';
 import Footer from './Footer'
 
 

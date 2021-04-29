@@ -40,6 +40,7 @@ h1{
 
 h2{
   color: #894F19;
+  font-size: 1.5vw;
 }
 
 nav{
@@ -126,7 +127,37 @@ text-align: center;
 }
 
 .projectThumbnail{
-  height: 250px;
+  height: 15vw;
   border-style: solid;
   border-color: #894F19;
+}
+
+/* Media Queries */
+@media screen and (max-width: 900px)
+{
+.projectCard{
+    width: 45%;
+    min-height: 200px;
+   }
+
+h2{
+    font-size: 2.5vw;
+  }
+
+}
+@media screen and (max-width: 500px)
+{
+.projectCard{
+    width: 87%;
+    min-height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 4px;
+}
+h2{
+  font-size: 25px;
+}
+.projectThumbnail{
+height: 200px;
+}
 }
