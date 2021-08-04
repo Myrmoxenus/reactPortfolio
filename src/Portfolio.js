@@ -21,7 +21,7 @@ let projectObjects = [
         image: 'portfolioicon4.png',
         github: 'https://github.com/Myrmoxenus/EmployeeTracker',
         link: 'https://drive.google.com/drive/folders/1OnADLzX_jZacfchbDS_yCszsTkBkI7e0',
-        description:'Application used inquirer.js to ask the user for a series of prompts and dynamically manipulate assosciated MySQL tables',
+        description:'Application used inquirer.js to ask the user for a series of prompts and dynamically manipulate associated  MySQL tables',
         techused:'JavaScript, Node.js, MySQL'
     },
     {
